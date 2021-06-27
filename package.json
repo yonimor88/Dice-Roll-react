@@ -1,6 +1,6 @@
 {
-  "homepage": "http://yonimor88.github.io/dice-roll",
-  "name": "dice-roll",
+  "homepage": "http://yonimor88.github.io/dice-roll-react",
+  "name": "dice-roll-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
