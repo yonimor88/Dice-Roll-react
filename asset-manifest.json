@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/dice-roll-react/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/dice-roll-react/static/js/main.18b2a262.chunk.js",
-    "main.js.map": "/dice-roll-react/static/js/main.18b2a262.chunk.js.map",
-    "runtime-main.js": "/dice-roll-react/static/js/runtime-main.7107467d.js",
-    "runtime-main.js.map": "/dice-roll-react/static/js/runtime-main.7107467d.js.map",
-    "static/js/2.1a3dda9c.chunk.js": "/dice-roll-react/static/js/2.1a3dda9c.chunk.js",
-    "static/js/2.1a3dda9c.chunk.js.map": "/dice-roll-react/static/js/2.1a3dda9c.chunk.js.map",
-    "static/js/3.6d1d902a.chunk.js": "/dice-roll-react/static/js/3.6d1d902a.chunk.js",
-    "static/js/3.6d1d902a.chunk.js.map": "/dice-roll-react/static/js/3.6d1d902a.chunk.js.map",
+    "main.css": "/dice-roll-react/static/css/main.65325128.chunk.css",
+    "main.js": "/dice-roll-react/static/js/main.128d5772.chunk.js",
+    "main.js.map": "/dice-roll-react/static/js/main.128d5772.chunk.js.map",
+    "runtime-main.js": "/dice-roll-react/static/js/runtime-main.bf5ae1ef.js",
+    "runtime-main.js.map": "/dice-roll-react/static/js/runtime-main.bf5ae1ef.js.map",
+    "static/js/2.137dff13.chunk.js": "/dice-roll-react/static/js/2.137dff13.chunk.js",
+    "static/js/2.137dff13.chunk.js.map": "/dice-roll-react/static/js/2.137dff13.chunk.js.map",
+    "static/js/3.9419b3e0.chunk.js": "/dice-roll-react/static/js/3.9419b3e0.chunk.js",
+    "static/js/3.9419b3e0.chunk.js.map": "/dice-roll-react/static/js/3.9419b3e0.chunk.js.map",
     "index.html": "/dice-roll-react/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/dice-roll-react/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.1a3dda9c.chunk.js.LICENSE.txt": "/dice-roll-react/static/js/2.1a3dda9c.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/dice-roll-react/static/media/logo.6ce24c58.svg"
+    "static/css/main.65325128.chunk.css.map": "/dice-roll-react/static/css/main.65325128.chunk.css.map",
+    "static/js/2.137dff13.chunk.js.LICENSE.txt": "/dice-roll-react/static/js/2.137dff13.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7107467d.js",
-    "static/js/2.1a3dda9c.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.18b2a262.chunk.js"
+    "static/js/runtime-main.bf5ae1ef.js",
+    "static/js/2.137dff13.chunk.js",
+    "static/css/main.65325128.chunk.css",
+    "static/js/main.128d5772.chunk.js"
   ]
 }
